@@ -10,7 +10,7 @@ short_desc="Bluetooth configuration tool "
 maintainer="Vilmar Catafesta <vcatafesta@gmail.com>"
 license="GPL-3.0-or-later"
 homepage="https://github.com/linuxmint/blueberry"
-distfiles="https://github.com/linuxmint/blueberry/archive/$version/$pkgname-$version.tar.gz"
+distfiles="https://github.com/linuxmint/blueberry/archive/$version/blueberry-$version.tar.gz"
 checksum=37a5b0bc3c7cbccee625209b9196a2e2966396cfe5c7652318559642fb6a7a32
 
 do_install() {
